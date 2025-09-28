@@ -1,2 +1,3 @@
 # first-git
-this is my irst git repository
+This is my first git repository
+Author-Abhinav gahlaut
